@@ -1,3 +1,6 @@
 # SMART-BLIND-ASSISTANCE-SYSTEM
 
-The Smart Blind Assistance System is aimed at helping visually impaired people to navigate independently and safely avoiding obstacles on the way.
+This project implements a smart blind stick with the use of arduino.The Smart Blind Assistance System is aimed at helping visually impaired people to navigate independently and safely avoiding obstacles on the way.This stick detects the object in front of the blind person and gives response to the user either by vibrating or through command. So, the person can walk without any fear and using this blind stick,a person can walk more confidently.. This device will be the best solution to overcome the difficulties of visually impaired people.
+
+
+
