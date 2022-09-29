@@ -138,7 +138,7 @@ digitalWrite(trigPin, HIGH);
     gps.f_get_position(&flat, &flon, &age);   
     SIM900.print("AT+CMGF=1\r"); 
     delay(400);
-    SIM900.println("AT + CMGS = \"+919449325408\"");// recipient's mobile number with country code
+    SIM900.println("AT + CMGS = \"+919999888877\"");// recipient's mobile number with country code
     delay(300);
     SIM900.print("Latitude = ");
     SIM900.print(flat == TinyGPS::GPS_INVALID_F_ANGLE ? 0.0 : flat, 6);
